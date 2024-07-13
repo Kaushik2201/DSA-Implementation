@@ -29,6 +29,8 @@ You all know the importance is Data Structures and Algorithms for your future, b
 
 **8. Each Question has different points alloted, because of its difficulty level**
 
+**9. Only the commits made before deadline will be considered**
+
 
 **Lasly do not be afraid of these questions take them as new learnings and submit the Repository even if questions are not solved completely as something is better than nothing and there will be marking for each and every function**
 
