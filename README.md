@@ -2,7 +2,7 @@
 
 ## Hello Future Engineers :)
 
-This track is for those of you who understand the value of data structures and algorithms for your internship or placement season but are unsure of their practical applications.
+You all know the importance is Data Structures and Algorithms for your future, but not sure where they are used in real life so this track is for people like you all.
 
 1. This track's primary goal is to inform you guys of the actual situations in which so-called DSA is employed.
 2. This track will also make it easier for you to understand the main data structures, which will aid you in your upcoming classes.
