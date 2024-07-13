@@ -25,7 +25,7 @@ This track is for those of you who understand the value of data structures and a
 
 **6. Your code will be tested on how clean and understandable to others it is**
 
-**7. Refrain from using CHAT-GPT, COPILOT, GEMINI or any other AI MODEL** 
+**7. Refrain from using CHAT-GPT, COPILOT, GEMINI or any other AI TOOLS** 
 
 **8. Each Question has different points alloted, because of its difficulty level**
 
