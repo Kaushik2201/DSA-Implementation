@@ -6,7 +6,7 @@ You all know the importance is Data Structures and Algorithms for your future, b
 
 1. This track's primary goal is to inform you guys of the actual situations in which so-called DSA is employed.
 2. This track will also make it easier for you to understand the main data structures, which will aid you in your upcoming classes.
-3. After viewing DSA, don't flee. Every question is carefully considered to ensure that it is as tough as possible.
+3. After viewing DSA, don't flee. Every question is carefully considered to ensure that it is easy as well as challenging.
 4. Each question has a link to ```Notes``` and ```Resources```, which will help you answer the questions more quickly and, more importantly, grasp the underlying ideas.
 5. So embrace this challenge to the fullest and pick up new skills.
 
